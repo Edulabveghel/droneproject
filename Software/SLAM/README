@@ -1,0 +1,7 @@
+Stap 1:
+Compileren libsweep (https://github.com/scanse/sweep-sdk.git).
+Stap 2:
+Pas in de CMakeLists.txt het pad aan naar de libsweep library. Vervolgens kan het project gecompilereerd worden.
+Stap 3:
+Bij het uitvoeren kan het zijn dat de seriele port niet geopend kan worden. Voer dan het volgende commando uit:
+sudo chmod a+rw /dev/ttyUSB0

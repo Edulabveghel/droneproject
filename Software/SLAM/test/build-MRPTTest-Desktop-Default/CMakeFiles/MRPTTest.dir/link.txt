@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wno-long-long -Wno-variadic-macros -O3 -std=c++11   CMakeFiles/MRPTTest.dir/main.cpp.o  -o MRPTTest -rdynamic -lmrpt-base -lmrpt-graphs -lmrpt-vision -lmrpt-tfest -lmrpt-maps -lmrpt-obs -lmrpt-opengl -lmrpt-slam -lmrpt-gui /home/jeroen/Desktop/sweep-sdk/libsweep/libsweep.so -Wl,-rpath,/home/jeroen/Desktop/sweep-sdk/libsweep 
